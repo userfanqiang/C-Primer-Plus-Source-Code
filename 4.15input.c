@@ -11,6 +11,6 @@ int main(void)
     printf("Enter your age, assets, and favorate pet.\n");
     scanf("%d%f", &age, &assets);
     scanf("%s", pet);
-    printf("%d $%.2f %s\n", age, assets, pet);
+    printf("%d $%2.f %s\n", age, assets, pet);
     return 0;
 }
