@@ -1,3 +1,0 @@
-C:/Users/FAN/Desktop/C-Primer-Plus-Source-Code/cmake-build-debug/CMakeFiles/C_Primer_Plus_Source_Code.dir
-C:/Users/FAN/Desktop/C-Primer-Plus-Source-Code/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/FAN/Desktop/C-Primer-Plus-Source-Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
