@@ -5,8 +5,8 @@ sizeof(int);return size_int;print(%z)
 ```
 
 # C语言魔法
-···
+```
     int x = 0;
     printf("\n%d\n", (4 + x++) + (6 + x++));
     <!-- %d=11,x = 2 -->
-···
+```
